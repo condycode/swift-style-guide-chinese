@@ -873,3 +873,5 @@ let message = "You cannot charge the flux " +
 ## 不要使用Emoji
 
 不要使用Emoji当作变量名、方法名、类名等，以免造成不必要的麻烦。
+
+Reference resources [raywenderlich/swift-style-guide](https://github.com/raywenderlich/swift-style-guide)
